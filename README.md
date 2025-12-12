@@ -16,3 +16,5 @@ Key features:
 - Efficiency: Runs in linear time and is simple enough for real-time rendering, even in the early 1990s.
 
 At the time, Xiaolin Wu’s method provided one of the first practical ways to render smooth lines on CRT and early LCD displays without significantly increasing computational cost, improving both the visual quality and readability of graphics.
+
+# DEMO
