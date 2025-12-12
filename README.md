@@ -1,3 +1,8 @@
+# Description
+
+This is a demo comparison of Bresenham lines and Xiaolin Wu's antialiased lines both in motion and statically.
+You can press C to swap between a moving Sine wave and radial lines at 15 degree steps.
+
 # Xiaolin Wu's Antialiased Line Algorithm
 Wu, Xiaolin (July 1991). "An efficient antialiasing technique". ACM SIGGRAPH Computer Graphics. 25 (4): 143–152. doi:10.1145/127719.122734. ISBN 0-89791-436-8.
 
