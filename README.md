@@ -17,7 +17,9 @@ Key features:
 
 At the time, Xiaolin Wu’s method provided one of the first practical ways to render smooth lines on CRT and early LCD displays without significantly increasing computational cost, improving both the visual quality and readability of graphics.
 
-# DEMO
+# DEMO IMAGES
+
+The Xiaolin Wu lines are on the right, and the Bresenham lines are on the left:
 
 ![SINE WAVE](Sine.png)
 ![RADIAL LINES](Radial.png)
